@@ -11,3 +11,10 @@ if (temperature < 0) {
 }
 
 console.log("Now you're ready to go outside!");
+
+const autumn = true;
+
+if(autumn){
+  console.log("color pallete of falling leafs");
+}else
+console.log("not Autumn yet");
